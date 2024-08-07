@@ -11,6 +11,7 @@
 		B5C4D4C82C6357FC007A4D3C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C4D4C72C6357FC007A4D3C /* ContentView.swift */; };
 		B5C4D4CA2C6357FD007A4D3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5C4D4C92C6357FD007A4D3C /* Assets.xcassets */; };
 		B5C4D4CE2C6357FD007A4D3C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5C4D4CD2C6357FD007A4D3C /* Preview Assets.xcassets */; };
+		B5DBDE3A2C63940500EA3237 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5DBDE392C63940500EA3237 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		B5C4D4C92C6357FD007A4D3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5C4D4CB2C6357FD007A4D3C /* LandmarksApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = LandmarksApp.entitlements; sourceTree = "<group>"; };
 		B5C4D4CD2C6357FD007A4D3C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B5DBDE392C63940500EA3237 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				B5C4D4C52C6357FC007A4D3C /* LandmarksAppApp.swift */,
 				B5C4D4C72C6357FC007A4D3C /* ContentView.swift */,
+				B5DBDE392C63940500EA3237 /* CircleImage.swift */,
 				B5C4D4C92C6357FD007A4D3C /* Assets.xcassets */,
 				B5C4D4CB2C6357FD007A4D3C /* LandmarksApp.entitlements */,
 				B5C4D4CC2C6357FD007A4D3C /* Preview Content */,
@@ -141,6 +144,7 @@
 			files = (
 				B5C4D4C82C6357FC007A4D3C /* ContentView.swift in Sources */,
 				B5C4D4C62C6357FC007A4D3C /* LandmarksAppApp.swift in Sources */,
+				B5DBDE3A2C63940500EA3237 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
