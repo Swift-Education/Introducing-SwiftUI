@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  CreatingAndCombingViews
+//  LandmarksApp
 //
 //  Created by 강동영 on 8/7/24.
 //
