@@ -10,12 +10,13 @@ import SwiftUI
 struct CircleImage: View {
     var body: some View {
         
-        ZStack {
-            Image(.turtlerock)
-                .clipShape(Circle())
-                .shadow(radius: 7)
-            Circle().stroke(.gray, lineWidth: 4)
-        }
+        // MARK: case: ZStack 코드 주석
+//        ZStack {
+//            Image(.turtlerock)
+//                .clipShape(Circle())
+//                .shadow(radius: 7)
+//            Circle().stroke(.gray, lineWidth: 4)
+//        }
         
         Image(.turtlerock)
             .clipShape(Circle())
